@@ -4,7 +4,7 @@
     "homepage": "http://www.workerman.net",
     "license" : "MIT",
     "require": {
-        "workerman/workerman" : ">=4.0.12"
+        "workerman/workerman" : "dev-php8"
     },
     "autoload": {
         "psr-4": {"Channel\\": "./src"}
